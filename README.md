@@ -1,14 +1,17 @@
 # Projeto Barber - Landing Page
 
-Bem-vindo ao repositório do **Projeto Barber**! 🚀  
-Este projeto é uma landing page para uma barbearia, desenvolvida com **HTML**, **CSS** e **Sass**, com foco em responsividade e experiência do usuário.
+**Bem-vindo ao repositório do Projeto Barber**! 🚀  
+Este projeto é uma landing page para uma barbearia, desenvolvida com HTML, CSS e Sass, com foco em responsividade e experiência do usuário.
+
 ---
 ## 🌐 Deploy do Projeto
-Você pode acessar o projeto online clicando [aqui](https://projeto-barber-two.vercel.app/).
+Este projeto é uma landing page para uma barbearia [aqui](https://projeto-barber-two.vercel.app/).
+
 ---
 ## 📌 Sobre o Projeto
 
 **Projeto Barber** foi desenvolvido para praticar conceitos básicos e avançados de desenvolvimento web, criando uma página atrativa e funcional que representa uma barbearia. A página conta com animações, integração com WhatsApp para agendamento e informações úteis para os clientes.
+
 ---
 ## 🛠️ Tecnologias Utilizadas
 
@@ -37,19 +40,24 @@ Você pode acessar o projeto online clicando [aqui](https://projeto-barber-two.v
 2. Acesse o diretório do projeto: cd projeto-barber
 3. Abra o arquivo index.html no seu navegador para visualizar o projeto.
 ---
-📁 Estrutura de Pastas
-projeto-barber/
-├── assets/            # Imagens e arquivos estáticos
-├── partials/          # Scripts adicionais
-├── style.css          # Arquivo CSS compilado
-├── style.scss         # Arquivo Sass para estilização
-├── index.html         # Página principal
-└── README.md          # Documentação do projeto
+📁 Estrutura de Pastas projeto-barber
+
+| Diretório/Arquivo    | Descrição                              |
+|----------------------|----------------------------------------|
+| `assets/`            | Imagens e arquivos estáticos           |
+| `partials/`          | Scripts adicionais                     |
+| `style.css`          | Arquivo CSS compilado                  |
+| `style.scss`         | Arquivo Sass para estilização          |
+| `index.html`         | Página principal                       |
+| `README.md`          | Documentação do projeto                |
+
+
 ---
-✨ Créditos
-Projeto desenvolvido por Herica Silva, com base na aula do Sujeito Programador.
+✨ #Créditos
+**Projeto desenvolvido por** Herica Silva, com base na aula do **curso Fabrica de Aplicativos do Sujeito Programador** (https://sujeitoprogramador.com/)
+
 ---
-📜 Licença
+📜 #Licença
 ### Instruções adicionais:
 1. **Imagens**: Inclua capturas de tela ou substitua `![Preview do Projeto](assets/logo.svg)` pelo caminho real de uma imagem ilustrativa.
 2. **Arquivo de licença**: Adicione um arquivo `LICENSE` se necessário.
