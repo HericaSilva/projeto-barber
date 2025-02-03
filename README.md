@@ -1,67 +1,50 @@
-# Projeto Barber - Landing Page
+# **Barber Project - Landing Page**
 
-**Bem-vindo ao repositório do Projeto Barber**! 🚀  
-Este projeto é uma landing page para uma barbearia, desenvolvida com HTML, CSS e Sass, com foco em responsividade e experiência do usuário.
+Welcome to the **Barber Project repository**! 🚀
 
----
-## 🌐 Deploy do Projeto
-Este projeto é uma landing page para uma barbearia [aqui](https://projeto-barber-two.vercel.app/).
+This project is a **landing page** for a barbershop, developed using **HTML**, **CSS**, and **SCSS**, with a strong emphasis on **responsiveness** and **user experience**. It was created to showcase key web development skills, with a focus on interactive elements, animations, and seamless integration with essential tools such as WhatsApp for easy communication with customers.
 
----
-## 📌 Sobre o Projeto
+## 🌐 **Project Deploy**
 
-**Projeto Barber** foi desenvolvido para praticar conceitos básicos e avançados de desenvolvimento web, criando uma página atrativa e funcional que representa uma barbearia. A página conta com animações, integração com WhatsApp para agendamento e informações úteis para os clientes.
+Check out the live version of the landing page here:
 
----
-## 🛠️ Tecnologias Utilizadas
+[**Barber Project - Live Demo**](https://projeto-barber-two.vercel.app/)
 
-- **HTML5**: Estrutura semântica da página.
-- **CSS3**: Estilização e layout.
-- **Sass**: Pré-processador CSS para um código mais organizado e escalável.
-- **AOS (Animate On Scroll)**: Biblioteca para animações durante o scroll.
-- **Font Awesome**: Ícones para redes sociais e botões.
-- **Google Fonts**: Tipografia personalizada para um design moderno.
----
-## 📋 Funcionalidades
+## 📌 **About the Project**
 
-- **Animações Modernas**: Transições e efeitos ao rolar a página usando AOS.
-- **Responsividade**: Layout adaptado para dispositivos móveis e desktop.
-- **Botão de Agendamento no WhatsApp**: Link direto para o WhatsApp da barbearia.
-- **Mapa Embutido**: Integração com Google Maps para localização.
-- **Sessões Informativas**:
-  - Sobre a barbearia.
-  - Serviços oferecidos (corte normal, barba completa, corte e barba).
----
-## 🔧 Como Rodar Localmente
+The **Barber Project** was designed to practice both **basic and advanced web development** concepts, focusing on creating a visually appealing and functional **landing page** for a barbershop. The project aims to deliver a smooth, professional, and engaging experience for users looking for barbershop services. 
 
-1. Clone este repositório em sua máquina:
-   ```bash
-   git clone https://github.com/HericaSilva/projeto-barber.git
-2. Acesse o diretório do projeto: cd projeto-barber
-3. Abra o arquivo index.html no seu navegador para visualizar o projeto.
----
-📁 Estrutura de Pastas projeto-barber
+Key features include:
+- **Modern animations** with smooth transitions.
+- **Responsive design**, ensuring accessibility across various devices.
+- **Direct WhatsApp integration** for easy booking of appointments.
+- **Google Maps integration** to show the barbershop's location.
+  
+The project is a great exercise in building an engaging website with user-friendly functionalities.
 
-| Diretório/Arquivo    | Descrição                              |
-|----------------------|----------------------------------------|
-| `assets/`            | Imagens e arquivos estáticos           |
-| `partials/`          | Scripts adicionais                     |
-| `style.css`          | Arquivo CSS compilado                  |
-| `style.scss`         | Arquivo Sass para estilização          |
-| `index.html`         | Página principal                       |
-| `README.md`          | Documentação do projeto                |
+## 🛠️ **Technologies Used**
 
+This project was developed using the following technologies:
 
----
-✨ #Créditos
-**Projeto desenvolvido por** Herica Silva, com base na aula do **curso Fabrica de Aplicativos do Sujeito Programador** (https://sujeitoprogramador.com/)
+- **HTML5**: Provides a semantic structure for the page and ensures good accessibility.
+- **CSS3**: Used for styling the page with modern design principles.
+- **SCSS**: CSS preprocessor for better organization and scalability of stylesheets.
+- **AOS (Animate On Scroll)**: A library that adds animations to elements as users scroll down the page.
+- **Font Awesome**: Icons for social media, buttons, and other visual elements.
+- **Google Fonts**: Custom typography to give the project a modern and clean design.
 
----
-📜 #Licença
-### Instruções adicionais:
-1. **Imagens**: Inclua capturas de tela ou substitua `![Preview do Projeto](assets/logo.svg)` pelo caminho real de uma imagem ilustrativa.
-2. **Arquivo de licença**: Adicione um arquivo `LICENSE` se necessário.
-3. **Descrição de Deploy**: Certifique-se de que o link do deploy esteja funcionando corretamente.
+## 📋 **Features**
 
+Key features of the **Barber Project** landing page include:
 
+- **Modern Animations**: Transitions and effects triggered while scrolling the page using the AOS library.
+- **Responsive Design**: The layout adapts to various screen sizes for both **mobile** and **desktop** devices.
+- **WhatsApp Booking Button**: Direct link to the barbershop's WhatsApp for seamless booking.
+- **Embedded Google Map**: Displays the barbershop's location on the map for easy navigation.
+- **Informative Sections**:
+  - About the barbershop.
+  - Services offered (haircuts, beard trims, and more).
 
+## 📝 **Author**
+
+This project was developed by **[Herica Silva](https://github.com/HericaSilva)** as part of the **[Fábrica de Aplicativos](https://sujeitoprogramador.com/)** course by **Sujeito Programador**.
